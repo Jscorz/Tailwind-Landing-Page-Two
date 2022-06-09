@@ -12,6 +12,9 @@ module.exports = {
 				sans: ["Josefine Sans", "sans-serif"],
 				alata: ["Alata"],
 			},
+			letterSpacing: {
+				widest: ".3em",
+			},
 		},
 	},
 	plugins: [],
